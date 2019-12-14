@@ -1,0 +1,332 @@
+# depslib dependency file v1.0
+1542457441 source:f:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542457441 source:g:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\gl.h
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glu.h
+	<GL/gl.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_2\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_2\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560270324 source:e:\uiu\graphics lab sample codes\tutorial_2\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\uiu\graphics lab sample codes\tutorial_2\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571546043 source:c:\users\ashiqur\desktop\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\ashiqur\desktop\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544328 source:c:\users\ashiqur\desktop\merged\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\ashiqur\desktop\merged\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544343 source:c:\users\ashiqur\desktop\merged\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544529 source:c:\users\ashiqur\desktop\merged\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544328 source:c:\users\student.lab10pc-10\downloads\on transformation\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\student.lab10pc-10\downloads\on transformation\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544529 source:c:\users\student.lab10pc-10\downloads\on transformation\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\student.lab10pc-10\downloads\on transformation\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544343 source:c:\users\student.lab10pc-10\downloads\on transformation\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573628688 source:c:\users\student.lab10pc-10\downloads\on transformation\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\walking_stickman\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578784 e:\fall '19\computer graphics laboratory\walking_stickman\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\walking_stickman\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574567530 source:e:\fall '19\computer graphics laboratory\walking_stickman\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\walking_stickman\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578780 source:e:\fall '19\computer graphics laboratory\walking_stickman\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\race\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578784 e:\fall '19\computer graphics laboratory\race\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\race\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\race\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578780 source:e:\fall '19\computer graphics laboratory\race\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576338565 source:e:\fall '19\computer graphics laboratory\race\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:c:\users\common\desktop\race\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578784 c:\users\common\desktop\race\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1573578778 source:c:\users\common\desktop\race\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576306289 source:c:\users\common\desktop\race\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:c:\users\common\desktop\race\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578780 source:c:\users\common\desktop\race\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:c:\users\student.lab10pc-10\desktop\race\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578784 c:\users\student.lab10pc-10\desktop\race\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1573578778 source:c:\users\student.lab10pc-10\desktop\race\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:c:\users\student.lab10pc-10\desktop\race\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578780 source:c:\users\student.lab10pc-10\desktop\race\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576311109 source:c:\users\student.lab10pc-10\desktop\race\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\run & gun\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578784 e:\fall '19\computer graphics laboratory\run & gun\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\run & gun\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576338756 source:e:\fall '19\computer graphics laboratory\run & gun\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578778 source:e:\fall '19\computer graphics laboratory\run & gun\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1573578780 source:e:\fall '19\computer graphics laboratory\run & gun\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
